@@ -1,12 +1,14 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+title: "My frist post"
+date: 2025-07-10
 ---
+
+Hello! 👋
+
+I'm Nhu, a software engineer from Vietnam, now based in Toronto. I created this blog to share what I'm learning about AI, coding, and career tips.
+
+Stay tuned for more!
+
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
