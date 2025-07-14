@@ -3,8 +3,11 @@ title: "My frist post"
 date: 2025-07-10
 ---
 
-Hello! 👋
+Hi, I'm **Nhu** 👋
 
-I'm Nhu, a software engineer from Vietnam, now based in Toronto. I created this blog to share what I'm learning about AI, coding, and career tips.
+I'm a software engineer with a strong background in .NET and a growing passion for artificial intelligence. This blog will be my personal space to:
+- Share projects and AI experiments
+- Reflect on what I’m learning
+- Document career steps and tips for new developers in Canada
 
-Stay tuned for more!
+Thanks for reading and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ngoc-quynh-nhu-nguyen/)!
